@@ -27,3 +27,5 @@ cd build/intermediates/host/
 make clean
 cmake ../../../src -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++ -DCMAKE_SKIP_RPATH=TRUE
 export INSTALL_DIR=${HOME}/Ascend/ascend-toolkit/latest
+
+how could git diff --cached work?
