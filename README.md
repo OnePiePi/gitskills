@@ -29,3 +29,4 @@ cmake ../../../src -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++ -DCMAKE_SKIP_RPATH
 export INSTALL_DIR=${HOME}/Ascend/ascend-toolkit/latest
 
 how could git diff --cached work?
+still don't have any change?
